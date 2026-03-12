@@ -1,0 +1,7 @@
+aiogram
+aiohttp
+pydnevnikruapi
+sqlalchemy[asyncio]
+asyncpg
+aiosqlite
+python-dotenv
